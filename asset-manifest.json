@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4773922.chunk.css",
+    "main.js": "/static/js/main.d6bfc159.chunk.js",
+    "main.js.map": "/static/js/main.d6bfc159.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.65af3233.js",
+    "runtime-main.js.map": "/static/js/runtime-main.65af3233.js.map",
+    "static/js/2.22eadee6.chunk.js": "/static/js/2.22eadee6.chunk.js",
+    "static/js/2.22eadee6.chunk.js.map": "/static/js/2.22eadee6.chunk.js.map",
+    "static/js/3.45845410.chunk.js": "/static/js/3.45845410.chunk.js",
+    "static/js/3.45845410.chunk.js.map": "/static/js/3.45845410.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c4773922.chunk.css.map": "/static/css/main.c4773922.chunk.css.map",
+    "static/js/2.22eadee6.chunk.js.LICENSE.txt": "/static/js/2.22eadee6.chunk.js.LICENSE.txt",
+    "static/media/bart.cfa369b3.png": "/static/media/bart.cfa369b3.png",
+    "static/media/homer.aef9a892.jpg": "/static/media/homer.aef9a892.jpg",
+    "static/media/lisa.1a47d1de.png": "/static/media/lisa.1a47d1de.png",
+    "static/media/maggie.f210d01f.png": "/static/media/maggie.f210d01f.png",
+    "static/media/marge.8c4875c6.png": "/static/media/marge.8c4875c6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65af3233.js",
+    "static/js/2.22eadee6.chunk.js",
+    "static/css/main.c4773922.chunk.css",
+    "static/js/main.d6bfc159.chunk.js"
+  ]
+}
